@@ -1,0 +1,48 @@
+C:\Users\Trol\Desktop\Sudoku\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Trol\Desktop\Sudoku\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\Trol\Desktop\Sudoku\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\Trol\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.csprojAssemblyReference.cache
+C:\Users\Trol\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\Trol\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.cache
+C:\Users\Trol\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\Trol\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.csproj.CopyComplete
+C:\Users\Trol\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\Trol\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\Trol\Desktop\Sudoku\Sudoku\obj\Debug\Sudoku.Form1.resources
+C:\Users\Trol\Desktop\Sudoku\Sudoku\bin\Debug\SwiPlCs.dll
+C:\Users\Trol\Desktop\Sudoku\Sudoku\bin\Debug\SwiPlCs.xml
+C:\Users\Trol\Desktop\Sudoku - Copy\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Trol\Desktop\Sudoku - Copy\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\Trol\Desktop\Sudoku - Copy\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\Trol\Desktop\Sudoku - Copy\Sudoku\bin\Debug\SwiPlCs.dll
+C:\Users\Trol\Desktop\Sudoku - Copy\Sudoku\bin\Debug\SwiPlCs.xml
+C:\Users\Trol\Desktop\Sudoku - Copy\Sudoku\obj\Debug\Sudoku.csprojAssemblyReference.cache
+C:\Users\Trol\Desktop\Sudoku - Copy\Sudoku\obj\Debug\Sudoku.Form1.resources
+C:\Users\Trol\Desktop\Sudoku - Copy\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\Trol\Desktop\Sudoku - Copy\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.cache
+C:\Users\Trol\Desktop\Sudoku - Copy\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\Trol\Desktop\Sudoku - Copy\Sudoku\obj\Debug\Sudoku.csproj.CopyComplete
+C:\Users\Trol\Desktop\Sudoku - Copy\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\Trol\Desktop\Sudoku - Copy\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\Trol\Desktop\Sudoku - Copy\Sudoku\bin\Debug\Sudoku.exe.manifest
+C:\Users\Trol\Desktop\Sudoku - Copy\Sudoku\bin\Debug\Sudoku.application
+C:\Users\Trol\Desktop\Sudoku - Copy\Sudoku\obj\Debug\Sudoku.exe.manifest
+C:\Users\Trol\Desktop\Sudoku - Copy\Sudoku\obj\Debug\Sudoku.application
+C:\Users\Trol\Desktop\Sudoku - Copy - Copy\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\Trol\Desktop\Sudoku - Copy - Copy\Sudoku\bin\Debug\Sudoku.exe.manifest
+C:\Users\Trol\Desktop\Sudoku - Copy - Copy\Sudoku\bin\Debug\Sudoku.application
+C:\Users\Trol\Desktop\Sudoku - Copy - Copy\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\Trol\Desktop\Sudoku - Copy - Copy\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\Trol\Desktop\Sudoku - Copy - Copy\Sudoku\bin\Debug\SwiPlCs.dll
+C:\Users\Trol\Desktop\Sudoku - Copy - Copy\Sudoku\bin\Debug\SwiPlCs.xml
+C:\Users\Trol\Desktop\Sudoku - Copy - Copy\Sudoku\obj\Debug\Sudoku.csprojAssemblyReference.cache
+C:\Users\Trol\Desktop\Sudoku - Copy - Copy\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+C:\Users\Trol\Desktop\Sudoku - Copy - Copy\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.cache
+C:\Users\Trol\Desktop\Sudoku - Copy - Copy\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\Trol\Desktop\Sudoku - Copy - Copy\Sudoku\obj\Debug\Sudoku.exe.manifest
+C:\Users\Trol\Desktop\Sudoku - Copy - Copy\Sudoku\obj\Debug\Sudoku.application
+C:\Users\Trol\Desktop\Sudoku - Copy - Copy\Sudoku\obj\Debug\Sudoku.csproj.CopyComplete
+C:\Users\Trol\Desktop\Sudoku - Copy - Copy\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\Trol\Desktop\Sudoku - Copy - Copy\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\Trol\Desktop\Sudoku - Copy - Copy\Sudoku\obj\Debug\Sudoku.Sudoku.resources
+C:\Users\Trol\Desktop\Sudoku - Copy - Copy\Sudoku\obj\Debug\Sudoku.Kraj.resources
